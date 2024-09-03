@@ -10,6 +10,9 @@ python = "^3.11"
 sqlalchemy = "^2.0.32"
 schemas = "^0.7.1"
 pydantic = "^2.8.2"
+fastapi = "^0.112.2"
+email-validator = "^2.2.0"
+psycopg2-binary = "^2.9.9"
 
 
 [build-system]
