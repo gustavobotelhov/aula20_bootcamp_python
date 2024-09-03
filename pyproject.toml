@@ -13,6 +13,7 @@ pydantic = "^2.8.2"
 fastapi = "^0.112.2"
 email-validator = "^2.2.0"
 psycopg2-binary = "^2.9.9"
+docker = "^7.1.0"
 
 
 [build-system]
